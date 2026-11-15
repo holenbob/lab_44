@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Vasilev
-=======
-Aital
->>>>>>> d8cc417 (changed first.txt)
